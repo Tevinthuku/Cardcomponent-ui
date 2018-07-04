@@ -1,0 +1,15 @@
+{
+  "title": "Material demo",
+  "description":
+    "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/cards/SimpleMediaCard.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "1.1.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-motion": "0.5.2"
+  },
+  "keywords": [],
+  "name": "componentinfo-card"
+}
